@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 
 ## 🚀 About Me
 - 🌟 Passionate about coding, learning, and sharing knowledge
+- 💻 **Full-Stack Developer**
 - 🌱 Currently diving deeper into Programming Language
 
 ## 🛠️ Technologies & Tools
