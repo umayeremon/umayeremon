@@ -11,19 +11,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 - 🌱 Currently diving deeper into Machine Learning and Data Science
 
 ## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true)  
