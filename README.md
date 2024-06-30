@@ -6,9 +6,9 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and solving problems. Here's a little more about me:
 
 ## 🚀 About Me
-- 🌟 Passionate about coding, learning, and sharing knowledge
+- 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 💻 **Full-Stack Developer**
-- 🌱 Currently diving deeper into Programming Language
+- 🌱 **Currently diving deeper into Programming Language**
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
