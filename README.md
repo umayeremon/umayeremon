@@ -26,24 +26,23 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&exclude_repo=your-repo-name&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/umayermdemon)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umayermdemon)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔥 My Projects
-- [**Project 1**](https://github.com/your-github-username/project1): A brief description of your project.
-- [**Project 2**](https://github.com/your-github-username/project2): A brief description of your project.
-- [**Project 3**](https://github.com/your-github-username/project3): A brief description of your project.
+- [**Project 1**](https://github.com/umayermdemon/swift-parcel-client): A brief description of your project.
+- [**Project 2**](https://github.com/umayermdemon/artistry-avenue-client): A brief description of your project.
+- [**Project 3**](https://github.com/umayermdemon/electro-care-client): A brief description of your project.
 
-## 🏆 Achievements
-- **Award 1:** Description of the award.
-- **Certification:** Description of the certification.
+
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter-username)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-emon-miah-3579a621b)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/umayermdemon)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:mamudmdemon@gmail.com)
 
 <!-- Footer -->
 ![Footer](https://your-image-url.com/footer.png)
