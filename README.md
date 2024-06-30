@@ -13,6 +13,8 @@ Continuously learn and grow as a developer
 
 Skills: REACT / JS / HTML / CSS/ NODE/ MONGODB
 
+- 🌱 I’m currently learning NEXT JS 
+- 💬 Ask me about JS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/umayermdemon)  
