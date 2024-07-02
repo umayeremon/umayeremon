@@ -31,16 +31,6 @@
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Git&logoColor=F05032" alt="Git" style="width: 50px;">
 </div>
 
-## 📈 GitHub Stats
-<div style="text-align: center;">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true)
-
-    
-</div>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/umayermdemon)
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umayermdemon)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🔥 My Projects
 - [**Project 1**](https://github.com/umayermdemon/swift-parcel-client): A brief description of your project.
