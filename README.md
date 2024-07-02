@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header]([https://ibb.co/CPfqvD2](https://i.ibb.co/fDsbtLv/github-header-image-2.png))
+![Header](https://i.ibb.co/fDsbtLv/github-header-image-2.png)
 
 # Hi there, I'm Md Emon Miah! 👋
 
