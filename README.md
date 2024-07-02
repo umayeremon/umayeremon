@@ -7,7 +7,9 @@
 - 🌱 **Currently diving deeper into Next.Js**
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical" alt="GitHub Streak Stats">
+  </a>
 </div>
 
 ## 🛠️ Technologies & Tools
