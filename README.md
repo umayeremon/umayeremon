@@ -21,14 +21,15 @@
 </div>
 
 <ul style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center; list-style: none; padding: 0;">
-  <li><img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript"></li>
-  <li><img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5"></li>
-  <li><img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3"></li>
-  <li><img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"></li>
-  <li><img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"></li>
-  <li><img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" alt="MongoDB"></li>
-  <li><img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git"></li>
+  <li><img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt=""></li>
+  <li><img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt=""></li>
+  <li><img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt=""></li>
+  <li><img src="https://img.shields.io/badge/-React-000?&logo=React" alt=""></li>
+  <li><img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt=""></li>
+  <li><img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" alt=""></li>
+  <li><img src="https://img.shields.io/badge/-Git-000?&logo=git" alt=""></li>
 </ul>
+
 
 
 
