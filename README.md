@@ -16,15 +16,19 @@
   </ul>
 </div>
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+<div align="center">
+  <h2>🛠️ Technologies & Tools</h2>
+</div>
 
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
+  <div><img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript"></div>
+  <div><img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5"></div>
+  <div><img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3" alt="CSS3"></div>
+  <div><img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React"></div>
+  <div><img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"></div>
+  <div><img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb" alt="MongoDB"></div>
+  <div><img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git"></div>
+</div>
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true)  
 
