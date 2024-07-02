@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://your-image-url.com/banner.png)
+![Header](./your-header-image-name.png)
 
 # Hi there, I'm Md Emon Miah! 👋
 
