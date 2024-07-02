@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 - 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 🌱 **Currently diving deeper into Next.Js**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=umayermdemon&theme=outrun&border_radius=4&card_width=500&card_height=180)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=umayermdemon&theme=outrun&border_radius=4&card_width=500&card_height=180)](https://git.io/streak-stats)
 
 
 ## 🛠️ Technologies & Tools
