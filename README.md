@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 
 ![Md Emon Miah's GitHub Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
+![Md Emon Miah's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
