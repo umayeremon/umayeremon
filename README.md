@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 - 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 🌱 **Currently diving deeper into Next.Js**
 
-![Md Emon Miah's GitHub Daily Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Md Emon Miah's GitHub Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
