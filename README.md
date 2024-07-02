@@ -20,15 +20,16 @@
   <h2>🛠️ Technologies & Tools</h2>
 </div>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" style="width: 50px; background-color:'white';">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=HTML5&logoColor=E34F26" alt="HTML5" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=React&logoColor=61DAFB" alt="React" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=Node.js&logoColor=339933" alt="Node.js" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=MongoDB&logoColor=47A248" alt="MongoDB" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=Git&logoColor=F05032" alt="Git" style="width: 50px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" style="width: 50px; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=HTML5&logoColor=E34F26" alt="HTML5" style="width: 50px; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3" style="width: 50px; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=React&logoColor=61DAFB" alt="React" style="width: 50px; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=Node.js&logoColor=339933" alt="Node.js" style="width: 50px; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=MongoDB&logoColor=47A248" alt="MongoDB" style="width: 50px; background-color: transparent;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=Git&logoColor=F05032" alt="Git" style="width: 50px; background-color: transparent;">
 </div>
+
 
 
 
