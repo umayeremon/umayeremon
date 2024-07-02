@@ -7,8 +7,8 @@
   </a>
 </div>
 
-<div align="center">
-  <h2>🚀 About Me</h2>
+<div >
+  <h2 align="center">🚀 About Me</h2>
   <ul style="list-style: none; padding: 0;">
     <li>💻 <strong>Full-Stack Developer</strong></li>
     <li>🌟 <strong>Passionate about coding, learning, and sharing knowledge</strong></li>
