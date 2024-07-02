@@ -51,5 +51,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/umayermdemon)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:mamudmdemon@gmail.com)
 
-<!-- Footer -->
-![Footer](https://your-image-url.com/footer.png)
