@@ -7,11 +7,16 @@
   </a>
 </div>
 
-## 🚀 About Me
+<div align="center">
+  ## 🚀 About Me
 - 💻 **Full-Stack Developer**
 - 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 🌱 **Currently diving deeper into Next.Js**
+</div>
 
+<div>
+  
+</div>
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
@@ -20,21 +25,27 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
+<div>
+  
+</div>
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/umayermdemon)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umayermdemon)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div>
+  
+</div>
 ## 🔥 My Projects
 - [**Project 1**](https://github.com/umayermdemon/swift-parcel-client): A brief description of your project.
 - [**Project 2**](https://github.com/umayermdemon/artistry-avenue-client): A brief description of your project.
 - [**Project 3**](https://github.com/umayermdemon/electro-care-client): A brief description of your project.
 
 
-
+<div>
+  
+</div>
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-emon-miah-3579a621b)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/umayermdemon)
