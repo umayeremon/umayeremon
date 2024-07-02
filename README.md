@@ -20,7 +20,7 @@
   <h2>🛠️ Technologies & Tools</h2>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
+<div style="display: grid; grid-template-rows: repeat(4, 1fr); gap: 10px; text-align: center;">
   <div><img src="https://img.shields.io/badge/-000?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" style="width: 50px;"></div>
   <div><img src="https://img.shields.io/badge/-000?style=flat&logo=HTML5&logoColor=E34F26" alt="HTML5" style="width: 50px;"></div>
   <div><img src="https://img.shields.io/badge/-000?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3" style="width: 50px;"></div>
