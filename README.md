@@ -31,6 +31,13 @@
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Git&logoColor=F05032" alt="Git" style="width: 50px;">
 </div>
 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on open-source projects related to web development, especially those involving React and Node.js. 
+- 🤔 I’m looking for help with Improving my understanding of advanced JavaScript concepts and best practices 
+- 💬 Ask me about JavaScript 
+- ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes. 
+
+
 
 ## 🔥 My Projects
 - [**Project 1**](https://github.com/umayermdemon/swift-parcel-client): A brief description of your project.
