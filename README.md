@@ -8,7 +8,7 @@
 </div>
 
 <div >
-  <h1 align="center">🚀 About Me</h1>
+  <h1>🚀 About Me</h1>
   <ul style="list-style: none; padding: 0;">
     <li>💻 <strong>Full-Stack Developer</strong></li>
     <li>🌟 <strong>Passionate about coding, learning, and sharing knowledge</strong></li>
@@ -16,7 +16,7 @@
   </ul>
 </div>
 
-<div align="center">
+<div>
   <h2>🛠️ Technologies & Tools</h2>
 </div>
 
