@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  ## 🚀 About Me
+  <p>## 🚀 About Me</p>
 - 💻 **Full-Stack Developer**
 - 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 🌱 **Currently diving deeper into Next.Js**
