@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Git&logoColor=F05032" alt="Git" style="width: 50px;">
 </div>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true)  
+
 ## 👀 Current Overview:
 
 - 🌱 I’m currently learning Next.js 
