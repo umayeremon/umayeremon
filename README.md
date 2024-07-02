@@ -6,7 +6,9 @@
 - 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 🌱 **Currently diving deeper into Next.Js**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical)](https://git.io/streak-stats)
+<p align='center'>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical)](https://git.io/streak-stats)
+</p>
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
