@@ -8,7 +8,7 @@
 </div>
 
 <div >
-  <h2 align="center">🚀 About Me</h2>
+  <h1 align="center">🚀 About Me</h1>
   <ul style="list-style: none; padding: 0;">
     <li>💻 <strong>Full-Stack Developer</strong></li>
     <li>🌟 <strong>Passionate about coding, learning, and sharing knowledge</strong></li>
