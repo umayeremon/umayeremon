@@ -6,7 +6,7 @@
 - 🌟 **Passionate about coding, learning, and sharing knowledge**
 - 🌱 **Currently diving deeper into Next.Js**
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="padding-top: 20px;">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical" alt="GitHub Streak Stats">
   </a>
