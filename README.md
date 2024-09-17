@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<div >
+<div>
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding: 0;">
     <li>💻 <strong>Full-Stack Developer</strong></li>
