@@ -1,6 +1,4 @@
 <!-- Header -->
-![Header](https://scontent.xx.fbcdn.net/v/t1.15752-9/448807327_1943378422790961_2583258915239421780_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHBlejKiwm7TjEO8MxFYO8S1vq3j-pxIDvW-reP6nEgO2_PnyoOyvyUo6puZwJM_vMUHqHj_4codYXY6diMcNRL&_nc_ohc=O0BiNm5UOxcQ7kNvgGc1LjG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QH2cD363T4E1W_mCG28eNiTzwhBdaAfrI76XrcTk0ReVg&oe=66AB2B68)
-
 ## 📈 Current Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
