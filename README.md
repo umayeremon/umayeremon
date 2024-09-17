@@ -8,8 +8,6 @@
   </a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <div >
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding: 0;">
