@@ -1,6 +1,6 @@
 <!-- Header -->
 <div>
-    <img src="https://res.cloudinary.com/duagqnvpw/image/upload/v1748485587/Md_Emon_Miah_Linkedin_rbgzwx.png" alt="Banner">
+    <img src="https://res.cloudinary.com/duagqnvpw/image/upload/v1748486190/Md_Emon_Miah_Linkedin_jj2hua.png" alt="Banner">
 </div>
 ## 📈 Current Stats
 <div align="center">
