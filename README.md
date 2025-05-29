@@ -34,12 +34,9 @@
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Mongoose&logoColor=880000" alt="Mongoose" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=mui&logoColor=007FFF" alt="MUI" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=sql&logoColor=white" alt="SQL" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=redux&logoColor=764ABC" alt="Redux" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=HTML5&logoColor=E34F26" alt="HTML5" style="width: 50px;">
-  <img src="https://img.shields.io/badge/-000?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=React&logoColor=61DAFB" alt="React" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Node.js&logoColor=339933" alt="Node.js" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=MongoDB&logoColor=47A248" alt="MongoDB" style="width: 50px;">
