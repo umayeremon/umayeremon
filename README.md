@@ -18,7 +18,7 @@
     <li>📱 <strong>Responsive UI Design </strong></li>
     <li>🛡️ <strong>Authentication & Authorization </strong></li>
     <li>📦 <strong>REST API Integration  </strong></li>
-    <li>⚙️ <strong>Database Design & Management (MongoDB)  </strong></li>
+    <li>⚙️ <strong>Database Design & Management </strong></li>
   </ul>
 </div>
 
@@ -27,6 +27,16 @@
 </div>
 
 <div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
+ <p align="left">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=Next.js&logoColor=white" alt="Next.js" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=Prisma&logoColor=white" alt="Prisma" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=Mongoose&logoColor=880000" alt="Mongoose" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=mui&logoColor=007FFF" alt="MUI" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=shadcnui&logoColor=white" alt="Shadcn" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=sql&logoColor=white" alt="SQL" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" style="width: 50px;">
+  <img src="https://img.shields.io/badge/-000?style=flat&logo=redux&logoColor=764ABC" alt="Redux" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=HTML5&logoColor=E34F26" alt="HTML5" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3" style="width: 50px;">
@@ -34,6 +44,7 @@
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Node.js&logoColor=339933" alt="Node.js" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=MongoDB&logoColor=47A248" alt="MongoDB" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Git&logoColor=F05032" alt="Git" style="width: 50px;">
+</p>
 </div>
 
 
