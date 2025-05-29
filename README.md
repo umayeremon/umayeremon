@@ -27,7 +27,7 @@
 </div>
 
 <div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; text-align: center;">
- <p align="left">
+ <p align="center">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Next.js&logoColor=white" alt="Next.js" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL" style="width: 50px;">
   <img src="https://img.shields.io/badge/-000?style=flat&logo=Prisma&logoColor=white" alt="Prisma" style="width: 50px;">
