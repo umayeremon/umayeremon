@@ -44,9 +44,9 @@
 
 ## 👀 Current Overview:
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on open-source projects related to web development, especially those involving React and Node.js. 
-- 🤔 I’m looking for help with Improving my understanding of advanced JavaScript concepts and best practices 
+- 🤔 I’m looking for help with improving my understanding of advanced JavaScript concepts and best practices 
 - 💬 Ask me about JavaScript 
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes. 
 
@@ -58,7 +58,7 @@
 - [**Project 3**](https://github.com/umayermdemon/electro-care-client): A brief description of your project.
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-emon-miah-3579a621b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/umayermdemon)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/umayermdemon)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:mamudmdemon@gmail.com)
 
