@@ -2,16 +2,20 @@
 ## 📈 Current Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayeremon&theme=radical" alt="GitHub Streak Stats">
   </a>
 </div>
 
 <div>
   <h2>🚀 About Me</h2>
   <ul style="list-style: none; padding: 0;">
-    <li>💻 <strong>Full-Stack Developer</strong></li>
+    <li>🌐 <strong>Full Stack Web Development </strong></li>
     <li>🌟 <strong>Passionate about coding, learning, and sharing knowledge</strong></li>
-    <li>🌱 <strong>Currently diving deeper into Next.Js</strong></li>
+    <li>🧮 <strong>MERN Stack Projects </strong></li>
+    <li>📱 <strong>Responsive UI Design </strong></li>
+    <li>🛡️ <strong>Authentication & Authorization </strong></li>
+    <li>📦 <strong>REST API Integration  </strong></li>
+    <li>⚙️ <strong>Database Design & Management (MongoDB)  </strong></li>
   </ul>
 </div>
 
@@ -34,7 +38,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true" alt="GitHub Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=umayeremon&show_icons=true" alt="GitHub Streak Stats">
   </a>
 </div>
 
