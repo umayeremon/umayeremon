@@ -5,7 +5,7 @@
 ## 📈 Current Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayermdemon&theme=radical" alt="GitHub Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umayeremon&theme=radical" alt="GitHub Streak Stats">
   </a>
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=umayermdemon&show_icons=true" alt="GitHub Streak Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=umayeremon&show_icons=true" alt="GitHub Streak Stats">
   </a>
 </div>
 
