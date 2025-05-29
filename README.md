@@ -1,4 +1,7 @@
 <!-- Header -->
+<div>
+    <img src="https://res.cloudinary.com/duagqnvpw/image/upload/v1748485587/Md_Emon_Miah_Linkedin_rbgzwx.png" alt="Banner">
+</div>
 ## 📈 Current Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
